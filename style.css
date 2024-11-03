@@ -150,5 +150,7 @@ footer{
     color: var(--White);
 }
 
-
+footer a{
+    color: var(--Cyan);
+}
 
